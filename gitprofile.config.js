@@ -2,16 +2,16 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'SarthakChawathe', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
-    limit: 10, // How many projects to display.
+    limit: 5, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
       projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
-    linkedin: 'ariful-alam',
+    linkedin: 'https://www.linkedin.com/in/sarthak-chawathe-458251256/',
     twitter: 'arif_szn',
     mastodon: 'arifszn@mastodon.social',
     facebook: '',
@@ -23,13 +23,13 @@ const config = {
     stackoverflow: '', // format: userid/username
     skype: '',
     telegram: '',
-    website: 'https://arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    website: 'https://sarthakchawathe.github.io/portfolio/',
+    phone: '+1 (812) 837 6816',
+    email: 'sarthak.chawathe2012@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/13bDYupsSfU03MN9Z8T5mUOqA0YaCbP_c/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
