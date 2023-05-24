@@ -50,19 +50,19 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
-    },
-    {
-      company: 'Company Name',
-      position: 'Position',
+      company: 'Tata Consultancy Services',
+      position: 'Assistant Systems Engineer',
       from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      to: 'December 2020',
+      companyLink: 'https://www.tcs.com/',
     },
+//     {
+//       company: 'Company Name',
+//       position: 'Position',
+//       from: 'July 2019',
+//       to: 'August 2021',
+//       companyLink: 'https://example.com',
+//     },
   ],
   /* certifications: [
     {
