@@ -109,6 +109,12 @@ const config = {
       year: 'August 2018',
       link: 'https://drive.google.com/file/d/1nSImEWf8oUjTUZtmi4RktJOtSVcjuG90/view?usp=sharing'
     },
+    {
+      name: 'Introduction to Modern Application Devlopment',
+//       body: 'Those who earn the Google Data Analytics Professional Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for introductory-level roles in Data Analytics. They are competent in tools and platforms including spreadsheets, SQL, Tableau, and R. They know how to prepare, process, analyze, and share data for thoughtful action.',
+      year: 'September 2017',
+      link: 'https://drive.google.com/file/d/1wyIwsAKfquHeGunkKTD5Lo6b3e7qSGM_/view?usp=sharing'
+    },
   ],
   education: [
     {
