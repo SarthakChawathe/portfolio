@@ -87,9 +87,27 @@ const config = {
   certifications: [
     {
       name: 'Google Data Analytics',
-      body: 'Those who earn the Google Data Analytics Professional Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for introductory-level roles in Data Analytics. They are competent in tools and platforms including spreadsheets, SQL, Tableau, and R. They know how to prepare, process, analyze, and share data for thoughtful action.',
+//       body: 'Those who earn the Google Data Analytics Professional Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for introductory-level roles in Data Analytics. They are competent in tools and platforms including spreadsheets, SQL, Tableau, and R. They know how to prepare, process, analyze, and share data for thoughtful action.',
       year: 'June 2022',
       link: 'https://drive.google.com/file/d/1tXSY1OeE0G3ID2JLbKZ54Zb-4B_xV4rp/view?usp=sharing'
+    },
+    {
+      name: 'IBM Data Science',
+//       body: 'Those who earn the Google Data Analytics Professional Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for introductory-level roles in Data Analytics. They are competent in tools and platforms including spreadsheets, SQL, Tableau, and R. They know how to prepare, process, analyze, and share data for thoughtful action.',
+      year: 'October 2021',
+      link: 'https://drive.google.com/file/d/1nSImEWf8oUjTUZtmi4RktJOtSVcjuG90/view?usp=sharing'
+    },
+    {
+      name: 'Microsoft Technology Associate: HTML5 Application Development Fundamentals',
+//       body: 'Those who earn the Google Data Analytics Professional Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for introductory-level roles in Data Analytics. They are competent in tools and platforms including spreadsheets, SQL, Tableau, and R. They know how to prepare, process, analyze, and share data for thoughtful action.',
+      year: 'March 2019',
+      link: 'https://drive.google.com/file/d/1FTuVhSD7P7H5n3g7lcVr2XG34TJEpRRF/view?usp=sharing'
+    },
+    {
+      name: 'Programming with Python',
+//       body: 'Those who earn the Google Data Analytics Professional Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for introductory-level roles in Data Analytics. They are competent in tools and platforms including spreadsheets, SQL, Tableau, and R. They know how to prepare, process, analyze, and share data for thoughtful action.',
+      year: 'August 2018',
+      link: 'https://drive.google.com/file/d/1nSImEWf8oUjTUZtmi4RktJOtSVcjuG90/view?usp=sharing'
     },
   ],
   education: [
