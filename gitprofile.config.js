@@ -86,9 +86,9 @@ const config = {
   ],
   certifications: [
     {
-      Name: 'Google Data Analytics',
-      Body: 'Those who earn the Google Data Analytics Professional Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for introductory-level roles in Data Analytics. They are competent in tools and platforms including spreadsheets, SQL, Tableau, and R. They know how to prepare, process, analyze, and share data for thoughtful action.',
-      Year: 'June 2022',
+      name: 'Google Data Analytics',
+      body: 'Those who earn the Google Data Analytics Professional Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for introductory-level roles in Data Analytics. They are competent in tools and platforms including spreadsheets, SQL, Tableau, and R. They know how to prepare, process, analyze, and share data for thoughtful action.',
+      year: 'June 2022',
       link: 'https://example.com'
     },
   ],
