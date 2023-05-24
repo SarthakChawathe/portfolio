@@ -73,16 +73,16 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Indiana University Bloomington',
+      degree: 'Master of Science, Data Science',
+      from: '2022',
+      to: '2024',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'KJ Somaiya Institute of Engineering & information Technology',
+      degree: 'Bachelor of Engineering, Computer Engineering',
+      from: '2015',
+      to: '2019',
     },
   ],
 
