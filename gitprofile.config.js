@@ -16,7 +16,7 @@ const config = {
 //     mastodon: 'arifszn@mastodon.social',
     facebook: 'https://www.facebook.com/profile.php?id=100008154316936',
     instagram: 'https://www.instagram.com/sarthakchawathe/',
-    hackerrank: 'https://www.hackerrank.com/sarthak_c1?hr_r=1'
+    hackerrank: 'https://www.hackerrank.com/sarthak_c1?hr_r=1',
 //     dribbble: '',
 //     behance: '',
 //     medium: 'arifszn',
