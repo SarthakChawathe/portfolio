@@ -136,7 +136,7 @@ const config = {
     {
       title: 'Driver Drowsiness Detection',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Developed a driver drowsiness detection system using advanced sensors and machine learning algorithms. The system monitors driver behavior in real-time and provides timely alerts to prevent accidents caused by drowsiness or fatigue.',
       imageUrl: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nauto.com%2Fblog%2Fintroducing-driver-drowsiness-alerts&psig=AOvVaw0IfeB1bUShYjfi3SKYJ54-&ust=1685035595865000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCm5PK8jv8CFQAAAAAdAAAAABAE',
       link: 'https://example.com',
     },
